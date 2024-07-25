@@ -13,5 +13,5 @@ END FUNCTION
 
 ## Pseudocode for solution of system of equations
 
-FUNCTION solution
+FUNCTION solution(A,b)
 
